@@ -68,7 +68,7 @@ export default {
                 }, 500)
             );
         });
-        this.$store.commit("changeHt", "飞猪电影");
+        this.$store.commit("changeHt", "电影资讯");
     },
     data() {
         return {

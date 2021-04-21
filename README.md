@@ -1,5 +1,5 @@
-# 飞猪电影
-Vue-cli3.0飞猪电影项目
+# 电影资讯
+Vue-cli3.0电影资讯项目
 
 [项目预览](http://struggle-wjf.gitee.io/feizhumovie/dist/index.html#/)
 

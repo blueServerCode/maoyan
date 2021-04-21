@@ -6,7 +6,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
     // 状态，也就是数据
     state: {
-        headerTitle:"飞猪电影",
+        headerTitle:"电影资讯",
         cityTitle: '广州',
         cityId: 20
      },
